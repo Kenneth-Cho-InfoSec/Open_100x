@@ -22,6 +22,11 @@ keystore.properties
 *.apk
 *.aab
 *.ap_
+
+# Intentional beta download artifact
+!release/
+!release/Open100x-beta.apk
+
 *.log
 *.tmp
 *.temp
