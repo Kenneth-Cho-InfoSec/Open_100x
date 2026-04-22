@@ -34,7 +34,7 @@ These algorithms are implemented locally in the app and are designed to improve 
 
 The current beta APK is available from the GitHub release page:
 
-[Download Open 100x Beta APK](https://github.com/Kenneth-Cho-InfoSec/Open_100x/releases/download/v0.1.0-beta/Open100x-beta.apk)
+[Download Open 100x Beta APK](https://github.com/Kenneth-Cho-InfoSec/Open100x/releases/download/v0.1.0-beta/Open100x-beta.apk)
 
 ## Current Beta Notes
 
