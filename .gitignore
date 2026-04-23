@@ -26,6 +26,7 @@ keystore.properties
 # Intentional beta download artifact
 !release/
 !release/Open100x-beta.apk
+!release/Open100x-v1.0.1.apk
 
 *.log
 *.tmp
